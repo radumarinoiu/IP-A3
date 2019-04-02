@@ -1,0 +1,10 @@
+[submodule "IP-A3-Frontend"]
+	url = https://github.com/radumarinoiu/IP-A3-Frontend
+[submodule "IP-A3-API"]
+	url = https://github.com/radumarinoiu/IP-A3-API
+[submodule "IP-A3-Microservice1"]
+	url = https://github.com/radumarinoiu/IP-A3-Microservice1
+[submodule "IP-A3-Microservice2"]
+	url = https://github.com/radumarinoiu/IP-A3-Microservice2
+[submodule "IP-A3-Microservice3"]
+	url = https://github.com/radumarinoiu/IP-A3-Microservice3
